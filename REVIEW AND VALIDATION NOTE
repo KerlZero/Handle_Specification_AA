@@ -1,0 +1,34 @@
+## Known Limitations
+
+- CV download is hidden until a CV file or URL is configured.
+- LinkedIn link is hidden until a confirmed URL is configured.
+- Profile image is not used; the site currently uses the approved fallback profile card.
+- Contact email uses the reference email from the source profile and should be reviewed before public release.
+
+## Risks
+
+- Browser-based visual testing has not been executed in this QA pass.
+- Responsive behavior should still be confirmed manually in desktop and mobile browser viewports.
+- Contact email should be confirmed by the profile owner before public release.
+- Optional CV, LinkedIn, and profile image content remain unconfirmed.
+
+## Remaining Release Notes
+
+- Confirm final public contact email before publishing.
+- Add LinkedIn URL only after approval.
+- Add CV file only after approval.
+- Profile image is now implemented by CR003; confirm deployment approval before publishing it publicly.
+- Select deployment target before publishing.
+- Deploy only after explicit user approval.
+
+## Final Release Notes
+
+The website is technically ready for delivery.
+
+Before public publishing, confirm these optional profile items:
+
+- Final public contact email
+- LinkedIn URL
+- CV file
+- Profile image
+- Deployment target
