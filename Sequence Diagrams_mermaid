@@ -2,6 +2,8 @@
 
 ### Initial Page Load ###
 
+img/SEQ_Initial_Page_Load.png
+
 ```mermaid
 sequenceDiagram
     actor Visitor
