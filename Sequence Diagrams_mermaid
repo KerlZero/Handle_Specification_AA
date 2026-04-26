@@ -95,6 +95,8 @@ sequenceDiagram
 
 ## Data Flow ###
 
+img/Data_Flow_01.png
+
 ```mermaid
 flowchart LR
     Content[Static Profile Content]
