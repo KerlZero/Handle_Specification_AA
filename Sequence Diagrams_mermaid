@@ -2,8 +2,6 @@
 
 ### Initial Page Load ###
 
-![ข้อความอธิบายภาพ](imag/SEQ_04.png)
-
 ```mermaid
 sequenceDiagram
     actor Visitor
@@ -25,8 +23,6 @@ sequenceDiagram
 ```
 
 ### Mobile Navigation ###
-
-
 
 ```mermaid
 sequenceDiagram
@@ -72,8 +68,6 @@ sequenceDiagram
 ```
 ### Optional Link Visibility ###
 
-
-
 ```mermaid
 sequenceDiagram
     participant JS as script.js
@@ -94,8 +88,6 @@ sequenceDiagram
 ```
 
 ## Data Flow ###
-
-
 
 ```mermaid
 flowchart LR
