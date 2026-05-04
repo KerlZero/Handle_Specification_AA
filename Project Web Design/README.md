@@ -1,4 +1,4 @@
-Tech Component Reference Library
+## Example Project Name: Tech Component Reference Library
 
 ## 1. Project Summary
 
